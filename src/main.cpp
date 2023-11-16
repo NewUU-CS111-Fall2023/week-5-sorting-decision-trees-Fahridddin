@@ -5,7 +5,10 @@
  */
 
 #include <iostream>
-#include "task_1.h"
+#include "prob1.h"
+#include "prob2.h"
+#include "prob3.h"
+
 
 int main() {
     std::cout << "Task 1" << std::endl;
